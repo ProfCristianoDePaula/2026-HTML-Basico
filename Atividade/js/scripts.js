@@ -12,7 +12,6 @@ const cadastrar = (event) => {
   // Adicionar o novo item na lista ja existente
   lista.appendChild(novoItem);
 
-  lista.
   // Limpar os campos
   document.getElementById("nome").value = "";
   document.getElementById("email").value = "";
